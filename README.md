@@ -2,6 +2,12 @@
 
 # This is an implementation of LeapsAndBounds and Structured Procrastination for approximately optimal algorithm configuration.
 
+Install dependencies:
+
+```shell
+pip install -r requirements.txt
+```
+
 First uncompress the measurements file:
 
 `gzip -d measurements.dump.gz`
